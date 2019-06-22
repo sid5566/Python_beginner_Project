@@ -13,5 +13,3 @@ elif a== '*':
     print('your answer:',aq*aw)
 elif a== '/':
     print('your answer:',aq/aw)
-else:
-    ('try again')
